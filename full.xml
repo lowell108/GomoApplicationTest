@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<GOMOUSER id='1' first_name='Steve' last_name='Bishop' />
+
+	<GOMOUSER id='2' first_name='Jon' last_name='Herrington' />
+
+	<GOMOUSER id='3' first_name='Danny' last_name='Gatton' />
+
+	<GOMOVIDEO id='1' videoLengthMS='240000' videoname='Intro to Gomo Video' />
+
+	<GOMOVIDEO id='2' videoLengthMS='120000' videoname='Gomo Video - Chapter One' />
+
+	<GOMOVIDEO id='3' videoLengthMS='480000' videoname='Gomo Video - War, what is it good for?' />
+
+	<GOMOVIDEO id='4' videoLengthMS='200000' videoname='Gomo Video- Noam Chomsky - Linguistics' />
+
+	<GOMOVIDEO id='5' videoLengthMS='300000' videoname='Gomo Video - Summing Up' />
+
+	<GOMO_VIDEO_FRAGMENT id="1" videoid='1' userid='1'
+		start_time='0' end_time='200000' />
+	<GOMO_VIDEO_FRAGMENT id="2" videoid='1' userid='1'
+		start_time='0' end_time='100000' />
+	<GOMO_VIDEO_FRAGMENT id="3" videoid='1' userid='1'
+		start_time='220' end_time='240000' />
+	<GOMO_VIDEO_FRAGMENT id="4" videoid='2' userid='2'
+		start_time='10' end_time='111000' />
+	<GOMO_VIDEO_FRAGMENT id="5" videoid='2' userid='2'
+		start_time='0' end_time='108000' />
+	<GOMO_VIDEO_FRAGMENT id="6" videoid='3' userid='2'
+		start_time='108' end_time='111000' />
+	<GOMO_VIDEO_FRAGMENT id="7" videoid='4' userid='3'
+		start_time='0' end_time='90000' />
+	<GOMO_VIDEO_FRAGMENT id="8" videoid='4' userid='3'
+		start_time='0' end_time='100000' />
+	<GOMO_VIDEO_FRAGMENT id="9" videoid='4' userid='3'
+		start_time='90' end_time='100000' />
+	<GOMO_VIDEO_FRAGMENT id="10" videoid='5' userid='3'
+		start_time='22' end_time='180000' />
+
+
+
+
+
+
+</dataset>
